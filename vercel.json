@@ -8,14 +8,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "api/server.js",
-      "methods": [
-        "GET",
-        "POST",
-        "PATCH",
-        "DELETE",
-        "OPTIONS"
-      ]
+      "destination": "api/server.js"
     }
   ]
 }

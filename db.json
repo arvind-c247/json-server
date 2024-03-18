@@ -471,6 +471,22 @@
       "description": "dsd cvdf",
       "date": "3/14/2024",
       "time": "10:10:11 AM"
+    },
+    {
+      "id": "2b09",
+      "amount": "12000",
+      "category": "Insurance",
+      "description": "fgsdada",
+      "date": "3/18/2024",
+      "time": "3:21:03 PM"
+    },
+    {
+      "id": "2d54",
+      "amount": "13000",
+      "category": "Rent",
+      "description": "Room Rent",
+      "date": "3/18/2024",
+      "time": "7:10:11 PM"
     }
   ]
 }
